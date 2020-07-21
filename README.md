@@ -2,17 +2,17 @@
 
 This is CS226 Big-Data Management course project. This project is aim to combining 2D road map data with DEM data to generate the 3D road map and visualize it. Here are some output:
 
-![Original 2D Road Map](docs/road map.jpg)
+![Original 2D Road Map](docs/roadmap.jpg)
 
 
 
-![Align 2D Road Map with Google Map](docs/google map.jpg)
+![Align 2D Road Map with Google Map](docs/googlemap.jpg)
 
 
 
 ![3D Road Map](docs/altitude.jpg)
 
-For more explaination, pls visit our [report](docs/3D Network Building and Visualization.pdf) and [slides](docs/Big Data Presentation.pdf)
+For more explaination, pls visit our [report](docs/report.pdf) and [slides](docs/slide.pdf)
 
 ## Usage
 

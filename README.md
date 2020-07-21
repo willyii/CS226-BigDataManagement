@@ -1,8 +1,25 @@
+## Summary
+
+This is CS226 Big-Data Management course project. This project is aim to combining 2D road map data with DEM data to generate the 3D road map and visualize it. Here are some output:
+
+![Original 2D Road Map](docs/road map.jpg)
+
+
+
+![Align 2D Road Map with Google Map](docs/google map.jpg)
+
+
+
+![3D Road Map](docs/altitude.jpg)
+
+For more explaination, pls visit our [report](docs/3D Network Building and Visualization.pdf) and [slides](docs/Big Data Presentation.pdf)
+
 ## Usage
+
 Enter the root of the project, and use the following code to run the project  
 
     ./start_spark.sh
-    
+
 Our code can run well in cluster, and there is a same project in there to named "CS226_code". You can also go to that directory and 
 use the code mentioned to start it.  
 
